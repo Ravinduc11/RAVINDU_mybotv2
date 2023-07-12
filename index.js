@@ -15,17 +15,17 @@ const speed = require('performance-now');
 const apivhtear = 'apivhtear';
 const apibarbar = 'apibarbar';
 const tobzkey = 'apitobz';
-const ovo = '085781406716';
-const pulsa = '085781406716';
-const dana = '085781406716';
-const BotName = 'JINGAN BOT'; 
+const ovo = '94761265793';
+const pulsa = '94761265793';
+const dana = '94761265793';
+const BotName = 'RAVINDU  BOT'; 
 const instagram = 'https://www.instagram.com/_miqbal.22'; 
 const aktif = 'Tergantung jarungan sama kuota asu';
 const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n' 
             + 'FN:Muhammad Iqbal\n' // Nama kamu
             + 'ORG:JINGAN BOT;\n' // Nama bot
-            + 'TEL;type=CELL;type=VOICE;waid=6285745376798:+62 57-4537-6798\n' //Nomor whatsapp kamu
+            + 'TEL;type=CELL;type=VOICE;waid=94761265793:+62 57-4537-6798\n' //Nomor whatsapp kamu
             + 'END:VCARD'
 const
 {
